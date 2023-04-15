@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "crackedvesselconfig",
+    "name": "Cracked Vessel Config",
+    "description": "Allows to configure loot dropped from cracked vessels",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}
